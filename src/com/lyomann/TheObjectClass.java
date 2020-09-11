@@ -13,4 +13,5 @@ public class TheObjectClass {
 
     }
     //Object class is the root of all object types in java : string, int, point, arrays i.e
+    //Inside of objects we have properties and attributes
 }
