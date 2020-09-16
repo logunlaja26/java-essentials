@@ -14,7 +14,7 @@ public class WorkingWithArrays {
 
 
         int[] numbers = {1,20,500,4};
-        numbers[4] = 700;
+        //numbers[4] = 700;
         System.out.println(Arrays.toString(numbers));
 
         // Enhanced for loop - how to print each element in the array line by line

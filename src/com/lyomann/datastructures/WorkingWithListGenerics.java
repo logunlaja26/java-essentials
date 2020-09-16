@@ -18,6 +18,7 @@ public class WorkingWithListGenerics {
         //adding an element to a list
         numbers.add(0,-1);
 
+
         System.out.println(numbers);
 
         //We use int data type in the loop because its was bound to the generic type of the list of numbers above

@@ -14,6 +14,8 @@ public class Optionals {
         System.out.println(theBrand);
     }
 
+
     //Optional.of - when we know that the object being passed will never be null
     //Option.ofNullable - when the object passed can be null or not be null
+    //Reference - https://www.baeldung.com/java-optional
 }
