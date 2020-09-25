@@ -32,4 +32,7 @@ public class WorkingWithArrays {
 
     // Array is a data structure that allows you to store more than one value
     // Arrays have a fixed size elements that can't be changed later
+    // Array sizes have to be defined when instantiating an array object
+    // ArrayList can change size at runtime as needed.
+    // Like an array, an ArrayList is an ordered sequence that allows duplicates
 }

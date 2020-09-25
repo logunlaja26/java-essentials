@@ -4,11 +4,14 @@ public class ReverseStringAlgorithm {
     public static void main(String[] args) {
         String name = "Olayiwola";
         char[] stringToCharArray = name.toCharArray();
+        int lengthOfStringToCharArray = stringToCharArray.length -1;
         char[] result = new char[name.length()];
 
-        for(int counter = stringToCharArray.length -1; counter >= 0;counter-- ){
+        System.out.println(stringToCharArray.length);
 
-            result[stringToCharArray.length -1 - counter] = stringToCharArray[counter];
+        for(int counter = lengthOfStringToCharArray; counter >= 0;counter-- ){
+
+            result[lengthOfStringToCharArray - counter] = stringToCharArray[counter];
         }
 
         System.out.println(result);
