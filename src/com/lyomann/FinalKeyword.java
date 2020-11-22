@@ -10,6 +10,9 @@ public class FinalKeyword {
         point.x = 100;
         point.y = 100;
 
+        System.out.println(name);
+
+
         System.out.println(point);
     }
 }

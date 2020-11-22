@@ -4,12 +4,11 @@ import java.util.Arrays;
 
 public class WorkingWithArrays {
     public static void main(String[] args) {
-        String strings[] = new String[3];
+        String strings[] = new String[4];
         strings[0] = "hey";
         strings[1] = "There";
         strings[2] = "Mrs";
         System.out.println(Arrays.toString(strings));
-
 
 
 

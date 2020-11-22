@@ -6,7 +6,7 @@ public class TheObjectClass {
     public static void main(String[] args) {
         Object[] name = {"Ly","Ty","Fred"};
         for(Object x: name){
-            System.out.println();
+            System.out.println(x);
         }
 
         Object p = new Point(10,10);
