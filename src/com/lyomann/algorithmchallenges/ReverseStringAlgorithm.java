@@ -1,4 +1,4 @@
-package com.lyomann;
+package com.lyomann.algorithmchallenges;
 
 public class ReverseStringAlgorithm {
     public static void main(String[] args) {

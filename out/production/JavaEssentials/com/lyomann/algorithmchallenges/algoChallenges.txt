@@ -1,0 +1,5 @@
+1.Print Fibonacci series
+2.print if number is prime or not (checking until square root of the number - improved solution)
+3.program to calculate factorial in Java
+4.capitalize every first word in a sentence
+5.

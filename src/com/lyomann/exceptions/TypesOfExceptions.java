@@ -7,7 +7,7 @@ public class TypesOfExceptions {
     public static void main(String[] args)  {
         // Checked exceptions -  check exceptions that need to be handled at compile time
         try {
-            FileInputStream inputStream = new FileInputStream("src/example.txt");
+            FileInputStream inputStream = new FileInputStream("src/algoChallenges.txt");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
